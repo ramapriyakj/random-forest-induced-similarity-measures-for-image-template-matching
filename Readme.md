@@ -2,9 +2,12 @@
 # Random Forest Induced Similarity Measures for Image Template Matching
 
 Author  - Ramapriya Janardhan
+
+
 Email   - raghuiyengar.kj@gmail.com
-Purpose - The main goal of this work is to demonstrate the use of Random forest similarity measure
-		  in the context of image template matching.
+
+
+Purpose - The main goal of this work is to demonstrate the use of Random forest similarity measure in the context of image template matching.
 __________________________________________________________________________________________________
 
 Pre-requisites to run this work:
